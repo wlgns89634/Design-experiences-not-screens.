@@ -28,4 +28,10 @@
     <div align= "center"> 
  <div align= "center"> </div> 
     </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wigns89634&show_icons=true&theme=midnight-purple)  
+
+
     
+
+  
